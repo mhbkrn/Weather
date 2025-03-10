@@ -40,7 +40,6 @@ A modern weather application that provides real-time weather information, foreca
 ## Technologies Used
 
 - HTML5, CSS3, JavaScript
-- React.js
 - Weather API integration
 - Responsive design framework
 
